@@ -6,6 +6,8 @@ this in like 45 minutes. Insane)
 The idea behind this is to try to test out different "claims" about what makes a 
 basketball team good. Ones like "you need experienced guards to win in March" or "size matters in the tournament".
 
+<img width="1267" alt="image" src="https://github.com/user-attachments/assets/e3694379-5274-46ca-b1aa-66dd4e9e03c1" />
+
 This repo scrapes historical Final Four team data and sees whether certain takes end up being true. 
 
 ## Features
